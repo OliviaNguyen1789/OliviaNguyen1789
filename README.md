@@ -18,5 +18,6 @@ I’m excited to share my projects with you and explore how we can use data to d
 
 ## 📬 Let’s Connect!
 📧 uyennp89@gmail.com
+
 📍 www.linkedin.com/in/uyen-nguyen-0938a7214
 
