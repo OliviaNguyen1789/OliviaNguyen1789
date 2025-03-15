@@ -9,9 +9,11 @@ I’m actively seeking opportunities to gain hands-on experience, enhance my ana
 I’m excited to share my projects with you and explore how we can use data to drive better decision-making together! 🚀
 
 ## 🛠️ Tech Stack
-📊 SQL & Data Querying – Writing optimized queries to extract, clean, and analyze data
-📈 Power BI & Data Visualization – Building interactive dashboards for data-driven insights
-🤖 Python (Pandas, NumPy, Seaborn, Matplotlib, Scikit-Learn) - Handling data cleaning, transformation, statistical analysis, machine learning model building, and data visualization.
+📊 SQL & Data Querying – Writing optimized queries to extract, clean, and analyze data.
+
+📈 Power BI & Data Visualization – Building interactive dashboards for data-driven insights.
+
+🤖 Python (Pandas, NumPy, Seaborn, Matplotlib, Scikit-Learn) - Handling data cleaning, transformation, statistical analysis, machine learning model building, and data. visualization.
 
 
 ## 📬 Let’s Connect!
