@@ -1,5 +1,5 @@
 
-## 👋 Hello, I'm Uyen Nguyen!
+## 👋 Hello, I'm Olivia Nguyen!
 
 Welcome to my GitHub! I hold a **Master’s in Finance from Massey University (2024)** and have a strong background in working with numbers, sharpening **my analytical and problem-solving skills**. I’m passionate about transforming raw data into actionable insights that drive business decisions.
 
