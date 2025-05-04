@@ -1,23 +1,25 @@
 
-## 👋 Hello, I'm Olivia Nguyen!
 
-Welcome to my GitHub! I hold a **Master’s in Finance from Massey University (2024)** and have a strong background in working with numbers, sharpening **my analytical and problem-solving skills**. I’m passionate about transforming raw data into actionable insights that drive business decisions.
+## 👋 I'm Olivia Nguyen - Transforming 10+ years of finance expertise into visual data stories!
 
-## 🎯 My Goal
-I’m actively seeking opportunities to gain hands-on experience, enhance my analytical skills, and deepen my expertise in Power BI and SQL. More importantly, I aim to help businesses extract meaningful insights from data and make informed, data-driven decisions.
+Master's in Finance (Massey University, 2024) with extensive sector experience. Now pursuing my passion for data visualization to create impactful financial insights.
 
-I’m excited to share my projects with you and explore how we can use data to drive better decision-making together! 🚀
+## 🎯 My Vision
 
-## 🛠️ Tech Stack
+Translating complex financial metrics into clear visual narratives that anyone can understand. I bridge the gap between financial complexity and accessible decision-making tools for all stakeholders.
 
-<img src= "https://github.com/user-attachments/assets/5c8deee5-b588-40b0-a37e-9282dae33441"  width="40"/>  Writing optimized queries to extract, clean, and analyze data.
+## 🧰 My Toolkit
 
-<img src= "https://github.com/user-attachments/assets/0577d99b-ceff-41dc-a824-e79395e0dbb0" width="40"/> Power BI & Data Visualization – Building interactive dashboards for data-driven insights.
+📊 Data Visualization - Crafting compelling dashboards that reveal the stories hidden in financial numbers.
 
-<img src= "https://github.com/user-attachments/assets/a9bae7e4-e8f3-474c-b04f-5807b2226253" width="40"/>  Python (Pandas, NumPy, Seaborn, Matplotlib, Scikit-Learn) - Handling data cleaning, transformation, statistical analysis, machine learning model building, and data. visualization.
+💹 Financial Analysis - Leveraging the practical experience and academic knowledge to identify meaningful patterns and trends.
 
+📚 SQL - Building data queries to extract and transform financial data effectively.
 
-## 📬 Let’s Connect!
-📧 olivianguyen1789@gmail.com
+📈 Power BI - Developing interactive visualizations and dashboards for actionable insights.
 
+## Want to see how seasoned financial expertise meets modern visualization techniques? Let's connect!
+
+📧 olivianguyen1789@gmail.com  
 📍 https://www.linkedin.com/in/olivia-nguyen-0938a7214/
+
